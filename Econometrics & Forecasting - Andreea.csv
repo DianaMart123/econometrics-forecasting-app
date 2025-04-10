@@ -1,0 +1,301 @@
+age,gender,Irish region,income,financial literacy,risk aversion,do you invest,what sector(s) would you invest in
+19,M,Drogheda,3936.88,9,risk loving,yes,healthcare
+19,M,Sligo,2162.1,9,risk neutral,no,consumer goods
+25,M,Waterford,4380.18,6,risk averse,yes,AI
+20,F,Sligo,2642.94,2,risk averse,no,healthcare
+19,F,Waterford,2635.13,4,risk neutral,no,retail
+24,F,Kilkenny,4929.24,3,risk loving,no,tech
+23,F,Waterford,873.78,4,risk loving,no,consumer goods
+20,F,Kilkenny,3723.02,5,risk loving,no,retail
+25,F,Limerick,3888.04,2,risk neutral,no,healthcare
+25,M,Cork,2766.36,10,risk loving,no,tech
+25,F,Dublin,3409.27,1,risk averse,yes,consumer goods
+20,M,Galway,4351.82,10,risk averse,no,AI
+22,F,Waterford,3825.89,3,risk loving,yes,retail
+22,F,Sligo,4630.98,2,risk loving,no,tech
+19,F,Limerick,4658.89,1,risk averse,yes,retail
+18,M,Sligo,2506.34,8,risk loving,no,communications
+24,M,Kilkenny,2818.74,7,risk averse,no,communications
+25,M,Wexford,1078.68,9,risk averse,no,retail
+18,M,Derry,3705.16,8,risk averse,yes,retail
+18,F,Sligo,618.14,1,risk averse,no,consumer goods
+22,F,Sligo,3751.44,2,risk neutral,no,retail
+19,F,Waterford,854.76,1,risk loving,yes,retail
+21,F,Dublin,3354.55,8,risk averse,yes,tech
+18,F,Dublin,418.53,3,risk loving,yes,AI
+24,F,Drogheda,4581.03,9,risk loving,no,consumer goods
+23,F,Dublin,1694.9,3,risk averse,no,retail
+20,M,Kilkenny,2365.02,7,risk averse,yes,AI
+23,F,Cork,4733.03,2,risk averse,yes,AI
+19,F,Kilkenny,4854.35,1,risk loving,no,healthcare
+23,F,Dublin,12.34,4,risk averse,no,consumer goods
+19,F,Wexford,692.37,1,risk averse,no,healthcare
+24,M,Kilkenny,4901.77,6,risk neutral,yes,communications
+20,F,Derry,3655.15,1,risk loving,no,AI
+18,M,Kilkenny,4607.64,9,risk neutral,yes,healthcare
+19,M,Cork,1417.31,8,risk loving,no,tech
+25,F,Drogheda,3177.25,9,risk neutral,no,communications
+20,F,Cork,496.45,4,risk loving,yes,retail
+25,F,Wexford,178.86,4,risk loving,no,AI
+24,M,Dublin,3564.37,10,risk neutral,yes,consumer goods
+18,F,Dublin,511.53,2,risk loving,no,consumer goods
+19,F,Drogheda,3255.85,1,risk averse,no,retail
+21,F,Waterford,206.95,3,risk neutral,yes,healthcare
+22,M,Wexford,1932.44,8,risk averse,no,AI
+19,F,Dublin,3525.77,1,risk loving,yes,tech
+24,M,Sligo,945.09,6,risk averse,yes,communications
+23,M,Cork,951.15,9,risk averse,no,healthcare
+18,M,Kilkenny,2568.84,5,risk loving,yes,tech
+25,F,Waterford,809.89,5,risk neutral,no,healthcare
+23,F,Galway,1045.65,1,risk loving,yes,AI
+18,M,Wexford,4426.22,10,risk averse,yes,retail
+25,F,Cork,1439.58,3,risk loving,no,retail
+20,F,Drogheda,3044.48,2,risk averse,yes,healthcare
+23,M,Derry,3290.75,7,risk loving,no,tech
+24,M,Waterford,4198.31,6,risk loving,yes,retail
+23,M,Kilkenny,2725.8,10,risk neutral,no,tech
+18,F,Galway,2422.33,1,risk loving,yes,tech
+18,M,Waterford,1823.79,5,risk neutral,no,communications
+22,F,Wexford,1239.83,2,risk averse,yes,consumer goods
+21,F,Galway,2566.1,2,risk averse,no,consumer goods
+22,M,Waterford,2872.15,8,risk averse,no,consumer goods
+25,M,Waterford,1776.16,8,risk loving,no,AI
+20,F,Limerick,3101.81,3,risk loving,yes,tech
+19,M,Wexford,1150.09,9,risk averse,no,healthcare
+20,F,Kilkenny,1658.85,1,risk averse,no,tech
+19,M,Drogheda,2891.82,3,risk averse,no,consumer goods
+21,F,Drogheda,2503.46,2,risk neutral,yes,tech
+22,F,Limerick,1621.54,4,risk neutral,no,AI
+22,F,Galway,2772.81,2,risk neutral,no,communications
+25,M,Wexford,1628.57,6,risk neutral,yes,consumer goods
+19,M,Cork,1236.16,9,risk loving,yes,retail
+23,M,Limerick,4688.39,7,risk averse,yes,tech
+21,M,Limerick,2282.73,8,risk averse,yes,healthcare
+19,F,Derry,2762.92,1,risk loving,yes,healthcare
+18,M,Sligo,3744.06,8,risk loving,yes,communications
+22,F,Wexford,557.12,4,risk loving,no,tech
+19,F,Galway,4271.2,2,risk loving,no,communications
+25,F,Derry,4174.99,6,risk loving,yes,communications
+24,F,Derry,1880.79,7,risk averse,no,retail
+19,F,Kilkenny,387.85,2,risk loving,no,AI
+23,F,Cork,2589.31,3,risk neutral,no,communications
+23,F,Derry,3890.34,2,risk neutral,no,healthcare
+20,M,Drogheda,142.87,3,risk loving,yes,communications
+25,M,Sligo,4389.18,9,risk averse,yes,retail
+20,F,Kilkenny,3701.64,1,risk loving,no,communications
+19,M,Cork,3785.14,9,risk averse,yes,retail
+25,F,Dublin,3033.05,10,risk neutral,yes,retail
+23,M,Drogheda,4504.77,7,risk loving,yes,consumer goods
+22,F,Galway,3211.99,9,risk averse,yes,healthcare
+22,M,Derry,4970.86,9,risk neutral,no,communications
+19,F,Derry,4088.19,5,risk neutral,yes,AI
+18,M,Kilkenny,4883.86,6,risk neutral,yes,communications
+25,F,Cork,459.66,2,risk neutral,yes,consumer goods
+22,M,Limerick,1436.83,2,risk neutral,no,consumer goods
+18,F,Limerick,1721.34,1,risk averse,no,healthcare
+20,F,Cork,4101.96,3,risk neutral,no,retail
+24,M,Galway,2453.37,7,risk loving,yes,communications
+24,F,Galway,3403.68,10,risk neutral,yes,consumer goods
+20,M,Wexford,3307.05,1,risk neutral,no,tech
+21,F,Galway,2798.23,5,risk neutral,yes,tech
+22,F,Drogheda,2050.1,6,risk loving,yes,AI
+24,F,Sligo,2843.51,3,risk neutral,no,consumer goods
+25,F,Sligo,825.68,5,risk loving,no,healthcare
+23,M,Limerick,218.08,9,risk neutral,no,AI
+20,M,Dublin,3972.14,4,risk averse,no,consumer goods
+24,M,Limerick,314.11,1,risk neutral,yes,communications
+22,M,Dublin,2389.98,10,risk loving,yes,AI
+22,F,Wexford,1581.74,4,risk neutral,yes,healthcare
+21,M,Cork,1172.56,3,risk averse,yes,retail
+20,M,Galway,2791.27,4,risk loving,yes,consumer goods
+19,M,Sligo,2890.81,7,risk neutral,yes,healthcare
+20,F,Galway,4189.29,8,risk loving,yes,communications
+19,M,Waterford,4673.59,6,risk loving,yes,consumer goods
+22,F,Cork,4653.09,1,risk averse,yes,consumer goods
+21,M,Galway,304.09,9,risk loving,yes,tech
+24,M,Derry,653.15,5,risk averse,yes,communications
+23,F,Galway,3751.45,2,risk neutral,no,consumer goods
+20,F,Wexford,4032.22,1,risk averse,no,communications
+25,M,Wexford,3009.39,8,risk loving,no,healthcare
+24,F,Sligo,264.59,2,risk averse,yes,AI
+24,M,Galway,2776.62,7,risk averse,yes,AI
+21,M,Derry,2328.1,5,risk averse,yes,retail
+25,M,Drogheda,3534.72,10,risk averse,no,consumer goods
+23,F,Galway,2083.2,7,risk loving,yes,healthcare
+24,F,Drogheda,3654.81,3,risk loving,no,healthcare
+18,F,Dublin,3024.02,3,risk neutral,no,consumer goods
+19,F,Waterford,252.39,10,risk averse,yes,healthcare
+20,F,Cork,4427.95,1,risk loving,no,retail
+20,F,Kilkenny,2445.76,3,risk neutral,no,consumer goods
+22,M,Waterford,643.4,9,risk averse,yes,consumer goods
+25,F,Derry,2530.61,9,risk neutral,yes,healthcare
+19,F,Wexford,989.83,5,risk neutral,no,tech
+19,M,Derry,160.8,9,risk neutral,yes,tech
+19,F,Limerick,4970.55,3,risk loving,yes,retail
+23,M,Limerick,971.63,3,risk neutral,yes,AI
+21,F,Galway,658.22,10,risk averse,yes,AI
+18,F,Cork,1888.6,9,risk loving,no,healthcare
+21,F,Limerick,3141.96,8,risk loving,yes,communications
+20,F,Limerick,1170.71,1,risk loving,yes,tech
+24,F,Kilkenny,4641.1,3,risk averse,yes,healthcare
+18,F,Kilkenny,383.26,2,risk neutral,no,AI
+18,F,Wexford,2658.65,1,risk averse,no,communications
+22,F,Sligo,3085.51,4,risk averse,no,communications
+22,M,Waterford,3524.97,7,risk loving,no,retail
+21,M,Kilkenny,715.91,10,risk neutral,yes,healthcare
+22,F,Galway,3903.17,3,risk neutral,no,AI
+24,F,Waterford,4667.93,4,risk loving,yes,communications
+22,F,Dublin,4385.88,9,risk loving,yes,tech
+25,F,Dublin,1622.35,9,risk loving,no,AI
+18,M,Sligo,4756.79,9,risk neutral,yes,communications
+18,F,Derry,3069.22,2,risk averse,yes,tech
+19,F,Wexford,53.23,10,risk neutral,no,communications
+18,M,Sligo,2106.94,7,risk loving,no,consumer goods
+25,M,Dublin,1423.48,6,risk averse,no,tech
+24,F,Wexford,4849.39,3,risk loving,yes,healthcare
+25,M,Wexford,3798.3,10,risk neutral,no,tech
+20,F,Drogheda,2157.43,10,risk averse,no,tech
+21,F,Drogheda,1706.52,8,risk neutral,yes,communications
+22,F,Derry,1539.97,8,risk neutral,no,retail
+18,M,Kilkenny,2058.87,4,risk loving,yes,retail
+25,F,Wexford,3142.91,2,risk averse,yes,retail
+21,F,Galway,2312.09,2,risk averse,no,retail
+22,M,Dublin,882.59,7,risk neutral,no,retail
+19,M,Derry,2828.08,5,risk loving,no,AI
+20,M,Cork,1859.31,2,risk neutral,no,tech
+22,M,Kilkenny,2019.06,9,risk neutral,no,tech
+20,M,Kilkenny,3829.72,5,risk neutral,no,tech
+21,F,Sligo,4257.71,6,risk loving,no,AI
+23,F,Derry,1719.71,9,risk averse,no,consumer goods
+22,M,Waterford,4034.77,6,risk neutral,yes,tech
+22,M,Derry,4311.4,9,risk loving,yes,AI
+18,F,Waterford,3173.37,2,risk averse,no,tech
+18,F,Derry,3679.4,4,risk neutral,no,AI
+20,M,Cork,3071.82,1,risk loving,yes,retail
+25,F,Kilkenny,4988.6,10,risk averse,no,healthcare
+18,M,Cork,3608.66,8,risk averse,yes,communications
+24,M,Drogheda,2589.33,6,risk loving,no,retail
+19,F,Waterford,1481.3,2,risk neutral,yes,healthcare
+24,F,Galway,3925.74,1,risk neutral,no,AI
+25,M,Wexford,1219.57,7,risk loving,yes,tech
+24,M,Derry,2384.96,10,risk neutral,no,AI
+19,M,Kilkenny,1454.63,7,risk loving,yes,communications
+22,M,Dublin,3444.35,8,risk loving,no,communications
+19,M,Derry,818.09,7,risk loving,yes,communications
+20,M,Waterford,4237.68,5,risk loving,no,AI
+24,M,Wexford,142.15,1,risk neutral,no,consumer goods
+18,M,Kilkenny,4796.11,6,risk averse,yes,healthcare
+21,M,Galway,1381.3,6,risk averse,no,AI
+22,M,Drogheda,472.84,1,risk neutral,yes,AI
+23,M,Cork,4160.23,5,risk loving,yes,retail
+20,F,Wexford,3312.6,1,risk loving,no,AI
+22,F,Wexford,314.16,1,risk loving,yes,AI
+24,F,Galway,3030.23,2,risk averse,yes,tech
+20,M,Cork,2258.36,9,risk loving,yes,retail
+21,F,Limerick,4097.97,8,risk loving,no,healthcare
+24,M,Dublin,11.2,4,risk neutral,yes,AI
+22,F,Dublin,2450.36,5,risk averse,no,healthcare
+25,F,Kilkenny,103.43,1,risk neutral,no,AI
+25,F,Wexford,3483.37,9,risk averse,yes,consumer goods
+23,F,Waterford,1113.5,1,risk neutral,yes,communications
+18,M,Wexford,2308.29,5,risk neutral,yes,communications
+25,M,Waterford,3954.94,2,risk loving,yes,AI
+18,M,Waterford,2269.47,3,risk neutral,yes,consumer goods
+22,M,Derry,3656.73,1,risk neutral,yes,communications
+24,F,Derry,2986.51,6,risk averse,yes,tech
+23,M,Waterford,1091.79,6,risk averse,yes,AI
+22,F,Derry,3154.93,8,risk neutral,no,tech
+23,F,Waterford,656.86,10,risk neutral,no,retail
+24,F,Limerick,2856.91,8,risk loving,no,AI
+21,F,Wexford,3557.7,1,risk averse,no,tech
+22,F,Drogheda,2315.99,3,risk loving,no,healthcare
+21,M,Cork,3466.28,6,risk neutral,yes,AI
+20,M,Cork,4300.16,9,risk loving,yes,tech
+20,F,Drogheda,3908.2,6,risk averse,no,tech
+19,F,Wexford,1952.46,2,risk loving,yes,AI
+25,M,Waterford,4437.31,2,risk loving,yes,tech
+18,M,Cork,2887.42,6,risk averse,yes,consumer goods
+19,M,Galway,1262.04,8,risk averse,yes,AI
+23,F,Dublin,391.82,4,risk loving,no,retail
+22,M,Cork,2658.68,5,risk averse,yes,AI
+24,F,Waterford,3908.27,4,risk neutral,yes,consumer goods
+19,M,Dublin,3259.15,2,risk neutral,yes,retail
+21,M,Limerick,4048.22,2,risk averse,yes,AI
+22,M,Wexford,3340.7,6,risk loving,no,consumer goods
+22,M,Derry,1050.44,3,risk loving,no,consumer goods
+20,M,Kilkenny,2225.68,2,risk averse,yes,tech
+23,F,Kilkenny,2932.5,4,risk averse,yes,healthcare
+20,F,Sligo,490.71,2,risk loving,yes,consumer goods
+23,F,Wexford,1232.26,3,risk averse,no,tech
+19,F,Drogheda,4295.43,5,risk neutral,no,consumer goods
+18,F,Cork,4303.84,1,risk loving,no,healthcare
+21,F,Limerick,1190.74,4,risk neutral,no,healthcare
+23,F,Dublin,4494.33,7,risk neutral,yes,communications
+22,F,Kilkenny,1178.06,1,risk neutral,no,healthcare
+22,M,Galway,42.5,4,risk loving,yes,communications
+22,F,Galway,3685.41,3,risk loving,no,communications
+21,F,Limerick,754.18,1,risk loving,yes,consumer goods
+22,M,Wexford,2433.16,10,risk averse,yes,communications
+25,F,Wexford,1941.75,1,risk neutral,yes,consumer goods
+19,M,Sligo,4509.34,9,risk averse,yes,communications
+20,F,Waterford,3274.93,2,risk loving,no,tech
+21,F,Waterford,3431.26,1,risk neutral,no,consumer goods
+24,F,Drogheda,315.01,9,risk neutral,yes,communications
+24,F,Drogheda,397.11,7,risk loving,yes,tech
+20,F,Sligo,2642.7,1,risk averse,no,consumer goods
+23,M,Cork,1189.41,6,risk neutral,yes,consumer goods
+20,M,Dublin,4402.93,4,risk averse,no,healthcare
+23,M,Limerick,4144.26,10,risk loving,yes,tech
+23,M,Drogheda,4542.45,9,risk averse,no,consumer goods
+21,M,Waterford,3654.29,9,risk neutral,no,retail
+19,M,Drogheda,1255.57,7,risk neutral,yes,healthcare
+20,M,Wexford,4872.27,8,risk neutral,yes,communications
+19,F,Kilkenny,667.2,3,risk loving,yes,AI
+18,F,Kilkenny,455.88,1,risk loving,no,healthcare
+19,M,Derry,4088.22,8,risk neutral,yes,consumer goods
+19,M,Derry,3093.75,7,risk neutral,yes,healthcare
+25,M,Dublin,4413.23,7,risk neutral,yes,tech
+18,F,Drogheda,768.21,1,risk neutral,no,tech
+23,M,Waterford,4359.1,8,risk loving,yes,tech
+23,M,Sligo,4692.84,6,risk loving,no,retail
+18,M,Waterford,2853.54,9,risk averse,yes,tech
+20,M,Cork,3264.13,9,risk neutral,yes,communications
+19,F,Galway,2948.78,3,risk averse,no,retail
+22,M,Limerick,3659.28,7,risk averse,yes,tech
+24,M,Drogheda,3471.1,9,risk averse,no,AI
+19,F,Kilkenny,3018.75,1,risk averse,no,tech
+20,F,Wexford,634.69,10,risk neutral,yes,communications
+24,F,Waterford,2585.33,7,risk loving,yes,consumer goods
+18,M,Derry,4400.86,1,risk loving,no,communications
+22,F,Limerick,2184.15,1,risk neutral,yes,AI
+24,M,Cork,939.73,5,risk averse,no,communications
+23,F,Wexford,4000.42,8,risk neutral,yes,healthcare
+19,F,Sligo,3840.03,1,risk loving,no,retail
+24,M,Sligo,3468.48,6,risk neutral,yes,communications
+25,M,Wexford,3194.19,10,risk loving,yes,healthcare
+23,M,Wexford,3436.2,7,risk neutral,no,retail
+19,M,Dublin,1023.92,3,risk loving,yes,retail
+23,F,Cork,123.56,1,risk neutral,yes,retail
+18,M,Kilkenny,3497.88,4,risk loving,no,consumer goods
+21,F,Derry,2886.28,1,risk neutral,yes,healthcare
+20,F,Drogheda,1650.82,2,risk averse,yes,tech
+21,F,Sligo,351.54,2,risk neutral,no,retail
+20,M,Derry,3351.68,3,risk averse,yes,consumer goods
+23,M,Waterford,1504.79,9,risk averse,no,healthcare
+23,F,Galway,282.02,6,risk averse,yes,tech
+21,M,Kilkenny,3116.82,4,risk averse,yes,communications
+20,M,Limerick,954.19,4,risk loving,yes,healthcare
+19,M,Derry,1066.28,9,risk loving,yes,AI
+18,F,Waterford,3368.9,1,risk averse,yes,tech
+21,M,Kilkenny,3142.93,4,risk neutral,yes,retail
+23,M,Drogheda,1245.8,2,risk averse,yes,retail
+23,F,Sligo,2621.63,1,risk neutral,no,AI
+24,M,Sligo,1174.01,10,risk loving,yes,retail
+24,F,Kilkenny,4186.04,3,risk averse,no,tech
+24,F,Limerick,4001.27,1,risk averse,no,tech
+24,F,Kilkenny,709.52,4,risk averse,no,communications
+22,F,Derry,4324.63,1,risk neutral,yes,retail
+20,M,Galway,2365.74,2,risk neutral,no,consumer goods
+21,F,Sligo,923.09,1,risk neutral,yes,tech
+21,F,Waterford,4037.02,7,risk neutral,no,healthcare
+22,F,Limerick,4762.41,1,risk loving,no,consumer goods
